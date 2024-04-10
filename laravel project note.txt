@@ -1,0 +1,17 @@
+Starting Laravel Project
+
+- Create GitHub repo
+- Creat laravel project in hotdocs
+    - composer create-project laravel/laravel pj-name
+- Local laravel project link to GitHub repo
+    - Git init
+    - Git status
+    - Git add .
+    - Git commit -m “commend”//commend name
+    - Git remote add origin [github repo link]
+    - Git push -u origin main(master)
+- Install laravel ui
+    - Composer require laravel/ui 
+- Install ui bootstrap
+    - Php artisan ui bootstrap —auth
+- npm install, npm run dev, npm build
